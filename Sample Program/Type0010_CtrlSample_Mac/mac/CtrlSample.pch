@@ -1,0 +1,8 @@
+//================================================================================================
+// Copyright Nikon Corporation - All rights reserved
+//
+// View this file in a non-proportional font, tabs = 3
+//================================================================================================
+
+#include <Carbon/Carbon.h>
+#include "maid3.h"
